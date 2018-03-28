@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-1", "2-1\2-1.vcxproj", "{5A7B4644-FF7F-49F6-A7AE-12B58E9152A3}"
 EndProject
@@ -32,6 +32,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题3-5_书上的好算法", "例题3-5_书上的好算法\例题3-5_书上的好算法.vcxproj", "{5A1F336F-D1B2-40BD-9E70-A8DC3C56BECC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题3-6", "例题3-6\例题3-6.vcxproj", "{2ACE98BE-7CC0-463D-9F8A-64EC55C14ED8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题4-1", "例题4-1\例题4-1.vcxproj", "{5D411DEE-C4E4-4384-8156-3942515E8D09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题4-2", "例题4-2\例题4-2.vcxproj", "{72901A62-FDDA-43B6-A7E0-DEBADD700165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{2ACE98BE-7CC0-463D-9F8A-64EC55C14ED8}.Debug|Win32.Build.0 = Debug|Win32
 		{2ACE98BE-7CC0-463D-9F8A-64EC55C14ED8}.Release|Win32.ActiveCfg = Release|Win32
 		{2ACE98BE-7CC0-463D-9F8A-64EC55C14ED8}.Release|Win32.Build.0 = Release|Win32
+		{5D411DEE-C4E4-4384-8156-3942515E8D09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D411DEE-C4E4-4384-8156-3942515E8D09}.Debug|Win32.Build.0 = Debug|Win32
+		{5D411DEE-C4E4-4384-8156-3942515E8D09}.Release|Win32.ActiveCfg = Release|Win32
+		{5D411DEE-C4E4-4384-8156-3942515E8D09}.Release|Win32.Build.0 = Release|Win32
+		{72901A62-FDDA-43B6-A7E0-DEBADD700165}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72901A62-FDDA-43B6-A7E0-DEBADD700165}.Debug|Win32.Build.0 = Debug|Win32
+		{72901A62-FDDA-43B6-A7E0-DEBADD700165}.Release|Win32.ActiveCfg = Release|Win32
+		{72901A62-FDDA-43B6-A7E0-DEBADD700165}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
