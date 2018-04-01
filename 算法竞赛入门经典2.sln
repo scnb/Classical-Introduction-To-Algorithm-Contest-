@@ -41,6 +41,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题4-3", "例题4-3\例�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题4-4", "例题4-4\例题4-4.vcxproj", "{28A7D1D3-D98F-4733-884A-0A87BD8511B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题3-1", "习题3-1\习题3-1.vcxproj", "{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题3-2", "习题3-2\习题3-2.vcxproj", "{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -165,6 +169,18 @@ Global
 		{28A7D1D3-D98F-4733-884A-0A87BD8511B2}.Release|Win32.ActiveCfg = Release|Win32
 		{28A7D1D3-D98F-4733-884A-0A87BD8511B2}.Release|Win32.Build.0 = Release|Win32
 		{28A7D1D3-D98F-4733-884A-0A87BD8511B2}.Release|x64.ActiveCfg = Release|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Debug|Win32.Build.0 = Debug|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Debug|x64.ActiveCfg = Debug|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Release|Win32.ActiveCfg = Release|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Release|Win32.Build.0 = Release|Win32
+		{8CCD91DB-0B74-47F3-B87C-A2F2C9EAA871}.Release|x64.ActiveCfg = Release|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Debug|Win32.Build.0 = Debug|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Debug|x64.ActiveCfg = Debug|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Release|Win32.ActiveCfg = Release|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Release|Win32.Build.0 = Release|Win32
+		{1EF86CE7-BEE9-4D71-B4DB-0653177D3169}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
