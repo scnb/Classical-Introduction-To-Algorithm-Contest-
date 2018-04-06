@@ -53,6 +53,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题3-5", "习题3-5\习�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题3-6", "习题3-6\习题3-6.vcxproj", "{EDDE48B0-9758-4AFF-9E11-714E55FB18D2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-2", "例题5-2\例题5-2.vcxproj", "{4BE7E073-E3C6-4701-B300-260666D8C9FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-3", "例题5-3\例题5-3.vcxproj", "{3458B244-FCF5-4A48-90B4-9028AC20380B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -213,6 +217,18 @@ Global
 		{EDDE48B0-9758-4AFF-9E11-714E55FB18D2}.Release|Win32.ActiveCfg = Release|Win32
 		{EDDE48B0-9758-4AFF-9E11-714E55FB18D2}.Release|Win32.Build.0 = Release|Win32
 		{EDDE48B0-9758-4AFF-9E11-714E55FB18D2}.Release|x64.ActiveCfg = Release|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Debug|Win32.Build.0 = Debug|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Debug|x64.ActiveCfg = Debug|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Release|Win32.ActiveCfg = Release|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Release|Win32.Build.0 = Release|Win32
+		{4BE7E073-E3C6-4701-B300-260666D8C9FE}.Release|x64.ActiveCfg = Release|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Debug|Win32.Build.0 = Debug|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Debug|x64.ActiveCfg = Debug|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Release|Win32.ActiveCfg = Release|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Release|Win32.Build.0 = Release|Win32
+		{3458B244-FCF5-4A48-90B4-9028AC20380B}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
