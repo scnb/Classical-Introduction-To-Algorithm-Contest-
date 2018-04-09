@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-6", "例题5-6\例�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-7", "例题5-7\例题5-7.vcxproj", "{98272B38-A4A3-46E2-A202-8F022490AD46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-8", "例题5-8\例题5-8.vcxproj", "{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -253,6 +255,12 @@ Global
 		{98272B38-A4A3-46E2-A202-8F022490AD46}.Release|Win32.ActiveCfg = Release|Win32
 		{98272B38-A4A3-46E2-A202-8F022490AD46}.Release|Win32.Build.0 = Release|Win32
 		{98272B38-A4A3-46E2-A202-8F022490AD46}.Release|x64.ActiveCfg = Release|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Debug|Win32.Build.0 = Debug|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Debug|x64.ActiveCfg = Debug|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|Win32.ActiveCfg = Release|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|Win32.Build.0 = Release|Win32
+		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
