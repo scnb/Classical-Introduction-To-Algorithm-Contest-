@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-7", "例题5-7\例�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题5-8", "例题5-8\例题5-8.vcxproj", "{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题6-2", "例题6-2\例题6-2.vcxproj", "{BE1958AE-1F8D-474E-B046-42C754A1FE3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -261,6 +263,12 @@ Global
 		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|Win32.ActiveCfg = Release|Win32
 		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|Win32.Build.0 = Release|Win32
 		{9E9326BF-C1FA-4AE5-8FE0-2B683430ED31}.Release|x64.ActiveCfg = Release|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Debug|Win32.Build.0 = Debug|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Debug|x64.ActiveCfg = Debug|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Release|Win32.ActiveCfg = Release|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Release|Win32.Build.0 = Release|Win32
+		{BE1958AE-1F8D-474E-B046-42C754A1FE3E}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
