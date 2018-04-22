@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题6-9", "例题6-9\例�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题6-9_书上的算法", "例题6-9_书上的算法\例题6-9_书上的算法.vcxproj", "{DDFEECFC-3388-4C0B-AD86-9170B445217C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例题6-10", "例题6-10\例题6-10.vcxproj", "{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -345,6 +347,12 @@ Global
 		{DDFEECFC-3388-4C0B-AD86-9170B445217C}.Release|Win32.Build.0 = Release|Win32
 		{DDFEECFC-3388-4C0B-AD86-9170B445217C}.Release|x64.ActiveCfg = Release|x64
 		{DDFEECFC-3388-4C0B-AD86-9170B445217C}.Release|x64.Build.0 = Release|x64
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Debug|Win32.Build.0 = Debug|Win32
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Debug|x64.ActiveCfg = Debug|Win32
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Release|Win32.ActiveCfg = Release|Win32
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Release|Win32.Build.0 = Release|Win32
+		{D579EF4F-7397-4B0D-AB69-E720E3A55BE4}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
